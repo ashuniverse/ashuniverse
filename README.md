@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ... Tableau/powerbi/python/R
 - 📫 How to reach me ... +91 9109205632
 
+- Tableau Public Profile - https://public.tableau.com/app/profile/aashutosh90/viz/Ashutosh919109205632/AshutoshShukla919109205632
+- Power Bi Profile -       https://app.powerbi.com/view?r=eyJrIjoiNGRkYzczZWMtYTY0OS00YjE4LWJkZjctZTY5MWRlMmVlODdkIiwidCI6ImI1YWYyNDUxLWUyMWItNGFhMi1iNGI1LWRjNTkwNzkwOGRkOCJ9
+
 <!---
 ashuniverse/ashuniverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

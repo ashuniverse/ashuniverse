@@ -11,7 +11,8 @@
 - Tableau Public Profile - https://public.tableau.com/app/profile/aashutosh90/viz/Ashutosh919109205632/AshutoshShukla919109205632
 
 [Ashutosh Shukla cover letter.pdf](https://github.com/ashuniverse/ashuniverse/files/6829147/Ashutosh.Shukla.cover.letter.pdf)
-[aashutosh shukla Data Scientist_Data Analyst .pdf](https://github.com/ashuniverse/ashuniverse/files/6829151/aashutosh.shukla.Data.Scientist_Data.Analyst.pdf)
+[aashutosh shukla Data Analyst 2021.pdf](https://github.com/ashuniverse/ashuniverse/files/7357814/aashutosh.shukla.Data.Analyst.2021.pdf)
+
 
 
 <!---

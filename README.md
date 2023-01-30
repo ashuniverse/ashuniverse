@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Shukla (@ashuniverse)
 - 👀 I’m interested in ... Science technology data science+ Cloud AWS/ Azure and Advance Analytics
-- - 🌱 I’m currently learning ...AWS Services along with python/R/tensorflow
+- - 🌱 I’m currently learning ...Azure and AWS Services along with python/R/tensorflow
 - 💞️ I’m looking to collaborate on ... Alteryx/Tableau/Powerbi/Python/R/SQL
 - 📫 How to reach me ... +91 9109205632
 
